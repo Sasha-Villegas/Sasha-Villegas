@@ -9,8 +9,11 @@ Estoy en busca de mi primer experiencia laboral en el ambito IT como desarrollad
 Te invito a mirar mis proyectos y mi avance a lo largo de este camino del mundo IT. 
 
 Me puedes contactar por:
+
 📩 sashavillegas30@gmail.com
+
 📲 +5492245474376
+
 💻 www.linkedin.com/in/sashavillegas
 
 
