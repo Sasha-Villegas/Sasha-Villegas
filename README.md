@@ -1,4 +1,4 @@
-Hola, me llamo Sasha Villegas 👋
+<h2> Hola, me llamo Sasha Villegas 👋 </h2>
 
 Actualmente me encuentro estudiando la carrera de Desarrollo Full Stack en Coderhouse y licenciatura en economía en la Universidad Nacional de Rio Cuarto (Córdoba) 
 
