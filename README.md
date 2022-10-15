@@ -11,12 +11,13 @@ Te invito a mirar mis proyectos y mi avance a lo largo de este camino del mundo 
 Me puedes contactar por:
 
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-sashavillegas30@gmail.com
+<h4> sashavillegas30@gmail.com </h4>
 
 ![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-+5492245474376
+<h4> +5492245474376 </h4>
 
-💻 www.linkedin.com/in/sashavillegas
+![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<h4>www.linkedin.com/in/sashavillegas </h4>
 
 
 
